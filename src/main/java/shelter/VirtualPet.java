@@ -3,14 +3,13 @@ package shelter;
 public class VirtualPet {
         /*
          * Things this class knows:
-         *
-         * hunger
-         * thirst
-         * boredom
-         * name
-         * description
-         *
          */
+         private int hunger;
+         private int thirst;
+         private int boredom;
+         private String name;
+         private String description;
+
     //constructor goes here.
 
 
